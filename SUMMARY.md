@@ -2,7 +2,8 @@
 
 ## Gitbook Template
 
-* [Wiki](wiki/README.md)
+* [Dialogue](wiki/dialogue/README.md)
+	* [种草餐厅](wiki/dialogue/restaurant.md)
 
 ## Tags
 
