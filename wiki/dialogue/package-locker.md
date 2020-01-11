@@ -6,8 +6,6 @@
 
 ## Section
 
-你给朋友发了一家餐厅照片
-
 >You: Hey, good to see you.
 
 >F: Good to see you.

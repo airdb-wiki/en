@@ -6,8 +6,6 @@
 
 ## Section
 
-你给朋友发了一家餐厅照片
-
 >You: Any plans for this week?
 
 >F: Yes, I'm seeing a play on Friday. (Play: 话剧)
