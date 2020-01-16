@@ -10,4 +10,6 @@ Y(You) and F(Your Friend)
 
 >Y: x
 
->F: y
+>You: Yes! My resolution is to travel in Africa.
+
+>F: 
