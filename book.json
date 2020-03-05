@@ -9,7 +9,6 @@
   },
   "plugins": [
     "expandable-chapters",
-    "toggle-chapters",
     "anchors",
     "disqus",
     "github",
