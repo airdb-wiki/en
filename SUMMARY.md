@@ -6,6 +6,8 @@
 	* [人](wiki/phrase/noun-human.md)
 	* [游戏](wiki/phrase/game.md)
 	* [关于不知道的几种说法](wiki/phrase/i-have-no-idea.md)
+	* [永不放弃](wiki/phrase/never-give-up.md)
+	* [英语神翻译](wiki/phrase/god-translation.md)
 * [Dialogue](wiki/dialogue/README.md)
 	* [种草餐厅](wiki/dialogue/restaurant.md)
 	* [寄快递](wiki/dialogue/package-locker.md)
