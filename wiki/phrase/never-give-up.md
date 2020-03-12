@@ -11,3 +11,20 @@ Before you get angry, forgive.
 
 Before you quit, try.
 在你放弃之前，先努力。
+
+## Five things to quit right now
+
+1. Try to please everyone
+想让所有人满意
+
+2. Fearing change
+害怕改变
+
+3. Living in the past
+活在过去
+
+4. Putting yourself down
+贬低自己
+
+5. Overthinking
+顾虑太多
