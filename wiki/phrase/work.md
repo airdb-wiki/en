@@ -5,6 +5,9 @@ if any miss out
 Let me withdraw my last msg
 让我撤回上一条信息
 
+immediate priority 
+当务之急
+
 The purpose of my talk today is update you on new developments in R&D
 
 
@@ -20,3 +23,4 @@ Our goal is determine our sales targets for next year.
 我今天在这里汇报我/我们公司的投资计划。
 
 I am here today to report on my/our company's investment plans.
+
