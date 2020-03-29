@@ -24,6 +24,7 @@
 		* [Life and Conditions 2](wiki/liulishuo/level3/unit3/part1/life-and-conditions-2.md)
 * [Speaking](wiki/speaking/README.md)
 	* [How To Learn English](wiki/speaking/how-to-learn-english.md)
+	* [Principles - Ray Dalio ](wiki/work/ray-dalio.md)
 
 ## Tags
 
