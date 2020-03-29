@@ -25,6 +25,7 @@
 * [Speaking](wiki/speaking/README.md)
 	* [How To Learn English](wiki/speaking/how-to-learn-english.md)
 	* [Principles - Ray Dalio ](wiki/work/ray-dalio.md)
+	* [Presentation - Lession 17](wiki/work/presentation.md)
 
 ## Tags
 
