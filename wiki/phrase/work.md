@@ -8,6 +8,12 @@ Let me withdraw my last msg
 immediate priority 
 当务之急
 
+
+## IT
+
+please check why the host stuck?
+
+
 The purpose of my talk today is update you on new developments in R&D
 
 
