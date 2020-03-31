@@ -26,6 +26,8 @@
 	* [How To Learn English](wiki/speaking/how-to-learn-english.md)
 	* [Principles - Ray Dalio ](wiki/work/ray-dalio.md)
 	* [Presentation - Lession 17](wiki/work/presentation.md)
+* 发音
+	* [介词的弱读](wiki/pronunciation/preposition.md)
 
 ## Tags
 
