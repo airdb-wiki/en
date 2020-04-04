@@ -1,19 +1,20 @@
-# 介词的弱读
+# 弱读
 
 
-For 
-强读：fɔːr
-弱读：fər
+## 介词的弱读
+
+| Word | 强读式 | 弱读式 |
+| :---: | :---: | :---: |
+| for | fɔːr | fər   |
+| from |frʌm,frɑːm   | frəm|
+| of |ʌv  | əv   |
 
 
-From
-强读：frʌm,frɑːm
-弱读: frəm
+## 连词的弱读 (conjunction)
 
-
-of
-强读：ʌv
-弱读: əv
-
-
-
+| Word | 强读式 | 弱读式 |
+| :---: | :---: | :---: |
+| and   | ænd | ən,n   |
+| but | bʌt   | bət   |
+| or | ɔːr | ər   |
+| that | ðæt | ðət  |

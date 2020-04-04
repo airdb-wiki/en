@@ -27,7 +27,7 @@
 	* [Principles - Ray Dalio ](wiki/work/ray-dalio.md)
 	* [Presentation - Lession 17](wiki/work/presentation.md)
 * 发音
-	* [介词的弱读](wiki/pronunciation/preposition.md)
+	* [弱读](wiki/pronunciation/preposition.md)
 
 ## Tags
 
