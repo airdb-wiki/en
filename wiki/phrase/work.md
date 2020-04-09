@@ -30,3 +30,9 @@ Our goal is determine our sales targets for next year.
 
 I am here today to report on my/our company's investment plans.
 
+
+##
+Don’t poke around.
+
+oh my intention is to get the log first. 
+
