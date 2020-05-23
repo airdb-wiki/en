@@ -17,3 +17,8 @@
 | prep. | preposition | 介词 |
 | conj. | conjunction | 连词 \| |
 
+
+Reading:
+
+2020.05.23
+[True Friendship Is Never a Performance](https://humanparts.medium.com/true-friendship-is-never-a-performance-a68c059e4b45)
