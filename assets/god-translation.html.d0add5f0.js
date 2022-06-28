@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-f6e34614","path":"/phrase/god-translation.html","title":"\u82F1\u8BED\u795E\u7FFB\u8BD1","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1656434541000,"contributors":[{"name":"deancn","email":"dean@airdb.com","commits":1}]},"filePathRelative":"phrase/god-translation.md"}');export{e as data};

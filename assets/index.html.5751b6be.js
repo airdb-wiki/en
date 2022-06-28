@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-d3b2fef4","path":"/speaking/","title":"Speaking Skills","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1656434541000,"contributors":[{"name":"deancn","email":"dean@airdb.com","commits":1}]},"filePathRelative":"speaking/README.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-a8570b3e","path":"/speaking/how-to-learn-english.html","title":"Speaking 1","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1656434541000,"contributors":[{"name":"deancn","email":"dean@airdb.com","commits":1}]},"filePathRelative":"speaking/how-to-learn-english.md"}');export{e as data};

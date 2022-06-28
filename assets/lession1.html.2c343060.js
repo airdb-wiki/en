@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-b69737dc","path":"/work/lession1.html","title":"","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1656434541000,"contributors":[{"name":"deancn","email":"dean@airdb.com","commits":1}]},"filePathRelative":"work/lession1.md"}');export{e as data};

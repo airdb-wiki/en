@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6233337c","path":"/phrase/noun-human.html","title":"This is an example.","lang":"en-US","frontmatter":{},"excerpt":"","headers":[{"level":2,"title":"s1","slug":"s1","children":[]}],"git":{"updatedTime":1656434541000,"contributors":[{"name":"deancn","email":"dean@airdb.com","commits":1}]},"filePathRelative":"phrase/noun-human.md"}');export{e as data};
