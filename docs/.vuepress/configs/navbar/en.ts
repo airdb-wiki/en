@@ -4,125 +4,32 @@ import { version } from '../meta'
 export const navbarEn: NavbarConfig = [
   {
     text: 'Guide',
-    link: '/guide/',
+    link: '/',
   },
   {
-    text: 'DNS',
+    text: 'Learning',
     children: [
-      {
-        text: 'Bind',
-        children: [
-          { text: 'CLI', link: '/reference/cli.html', },
-        ],
-      },
-      {
-        text: 'CoreDNS',
-        children: [
-          { text: 'CaddyServer', link: '/reference/cli.html', },
-        ],
-      },
+          { text: 'liulishuo', link: '/reference/cli.html', },
+          { text: 'phrase', link: '/phrase/', },
+          { text: 'dialogue', link: '/dialogue/', },
+          { text: 'speaking', link: '/speaking/', },
     ],
   },
   {
-    text: 'Network Load Balancer',
+    text: 'Presentation',
     children: [
-      {
-        text: '4 Layer',
-        children: [
-          '/reference/plugin/pwa.md',
-          '/reference/plugin/pwa-popup.md',
-        ],
-      },
-      {
-        text: '7 Layer',
-        children: [
-          '/reference/plugin/prismjs.md',
-          '/reference/plugin/shiki.md',
-        ],
-      },
+          { text: 'Tasks', link: '/reference/cli.html', },
+          { text: 'Project', link: '/reference/cli.html', },
+          { text: 'Investigation', link: '/reference/cli.html', },
     ],
   },
   {
-    text: 'Application Load Balancer',
+    text: 'Work',
     children: [
-      {
-        text: 'Nginx',
-        children: [
-          '/advanced/architecture.md',
-          '/advanced/plugin.md',
-          '/advanced/theme.md',
-          {
-            text: 'Cookbook',
-            link: '/advanced/cookbook/',
-          },
-        ],
-      },
-      {
-        text: 'OpenResty',
-        children: [
-          '/contributing.md',
-          {
-            text: 'Awesome VuePress',
-            link: 'https://github.com/vuepress/awesome-vuepress',
-          },
-        ],
-      },
-      {
-        text: 'Caddy',
-        children: [
-          '/contributing.md',
-        ],
-      },
-      {
-        text: 'HTTPS SSL certificate',
-        children: [
-          '/contributing.md',
-        ],
-      },
-    ],
-  },
-  {
-    text: 'WAF',
-    children: [
-      {
-        text: '0 Day',
-        children: [
-          {
-            text: 'Cookbook',
-            link: '/advanced/cookbook/',
-          },
-        ],
-      },
-      {
-        text: 'Anti-Bot',
-        children: [
-          '/waf/README.md',
-          {
-            text: 'Awesome VuePress',
-            link: '/waf/',
-          },
-        ],
-      },
-      {
-        text: 'Anti-CC',
-        children: [
-          '/contributing.md',
-          {
-            text: 'Awesome VuePress',
-            link: 'https://github.com/vuepress/awesome-vuepress',
-          },
-        ],
-      },
-      {
-        text: 'APIs Protection',
-        children: [
-          '/contributing.md',
-          {
-            text: 'Awesome VuePress',
-            link: '/advanced/cookbook/',
-          },
-        ],
-      },
+          { text: 'Work', link: '/work/presentation.md', },
+          { text: 'Tasks', link: '/reference/cli.html', },
+          { text: 'Project', link: '/reference/cli.html', },
+          { text: 'Investigation', link: '/reference/cli.html', },
     ],
   },
 ]

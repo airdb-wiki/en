@@ -3,20 +3,20 @@ home: true
 title: Home
 heroImage: /images/hero.png
 actions:
-  - text: Get Started
+  - text: Life
     link: /guide/getting-started.html
     type: primary
-  - text: Introduction
+  - text: Work
     link: /guide/
     type: secondary
 features:
-  - title: DNS
-    details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
-  - title: Network Layer Load Balancer
-    details: Minimal setup with markdown-centered project structure helps you focus on writing.
-  - title: Application Layer Load Balancer
-    details: Enjoy the dev experience of Vue, use Vue components in markdown, and develop custom themes with Vue.
-  - title: Security
-    details: Web Application Firewall
+  - title: Work
+    details: Communication, ask for help, follow up your tasks, etc...
+  - title: Life
+    details: Traveling, shoping, and daily activities.
+  - title: Presentation
+    details: Share your mind with public.
+  - title: Definsive
+    details: Definsive with others.
 footer: MIT Licensed | Copyright © 2015-present airdb.team
 ---

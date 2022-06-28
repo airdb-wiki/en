@@ -11,7 +11,7 @@ const isProd = process.env.NODE_ENV === 'production'
 
 export default defineUserConfig({
   // set site base to default value
-  base: '/gateway/',
+  base: '/en/',
 
   // extra tags in `<head>`
   head,
@@ -20,8 +20,8 @@ export default defineUserConfig({
   locales: {
     '/': {
       lang: 'en-US',
-      title: 'Airdb Gateway',
-      description: 'Gateway, DNS, WAF',
+      title: 'English Daily',
+      description: 'Speak a little English every day',
     },
     '/zh/': {
       lang: 'zh-CN',
@@ -37,7 +37,7 @@ export default defineUserConfig({
   // configure default theme
   theme: defaultTheme({
     logo: '/images/hero.png',
-    repo: 'airdb-wiki/gateway',
+    repo: 'airdb-wiki/en',
     docsDir: 'docs',
 
     // theme-level locales config
