@@ -36,6 +36,7 @@ export const sidebarEn: SidebarConfig = {
       collapsible: true,
       children: [
         '/life/daily.md',
+        '/life/culture.md',
       ],
     },
     {

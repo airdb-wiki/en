@@ -5,6 +5,7 @@ It's ok to say no.
 日常英文
 
 卫生纸、抽纸：tissue paper
+Mattress: 床垫
 
 
 Collection:
