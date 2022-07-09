@@ -21,4 +21,10 @@ export const navbarEn: NavbarConfig = [
           { text: 'Tasks', link: '/life/daily.html', },
     ],
   },
+  {
+    text: 'Work',
+    children: [
+          { text: 'farewell', link: '/work/farewell.html', },
+    ],
+  },
 ]

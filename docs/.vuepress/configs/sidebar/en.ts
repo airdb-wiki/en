@@ -25,6 +25,7 @@ export const sidebarEn: SidebarConfig = {
       text: 'work',
       children: [
         '/work/tech.md',
+        '/work/farewell.md',
         '/work/presentation.md',
         '/work/ray-dalio.md',
       ],
