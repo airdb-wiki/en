@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-54237b76","path":"/life/culture.html","title":"Culture","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1657388694000,"contributors":[{"name":"deancn","email":"dean@airdb.com","commits":1}]},"filePathRelative":"life/culture.md"}');export{e as data};
