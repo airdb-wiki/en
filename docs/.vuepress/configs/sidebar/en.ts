@@ -30,19 +30,12 @@ export const sidebarEn: SidebarConfig = {
       ],
     },
   ],
-  '/reference/': [
+  '/life/': [
     {
-      text: 'VuePress Reference',
+      text: 'life',
       collapsible: true,
       children: [
-        '/reference/cli.md',
-        '/reference/config.md',
-        '/reference/frontmatter.md',
-        '/reference/components.md',
-        '/reference/plugin-api.md',
-        '/reference/theme-api.md',
-        '/reference/client-api.md',
-        '/reference/node-api.md',
+        '/life/daily.md',
       ],
     },
     {

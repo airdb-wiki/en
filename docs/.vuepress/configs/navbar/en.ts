@@ -16,20 +16,9 @@ export const navbarEn: NavbarConfig = [
     ],
   },
   {
-    text: 'Presentation',
+    text: 'Life',
     children: [
-          { text: 'Tasks', link: '/reference/cli.html', },
-          { text: 'Project', link: '/reference/cli.html', },
-          { text: 'Investigation', link: '/reference/cli.html', },
-    ],
-  },
-  {
-    text: 'Work',
-    children: [
-          { text: 'Work', link: '/work/presentation.md', },
-          { text: 'Tasks', link: '/reference/cli.html', },
-          { text: 'Project', link: '/reference/cli.html', },
-          { text: 'Investigation', link: '/reference/cli.html', },
+          { text: 'Tasks', link: '/life/daily.html', },
     ],
   },
 ]
