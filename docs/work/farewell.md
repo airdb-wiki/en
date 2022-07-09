@@ -68,3 +68,11 @@ Thanks everyone again, and all the best for the future endeavor.
 
 
 ```
+Hi all,
+
+Today marks my last working day in xxx.com. 
+
+I would like to say thank you to each and every one of you here for your guidance, patience, and support. It has been a great journey for me and I am so grateful to have met and worked alongside all of you, even if our encounters were brief. You have shaped my personal growth and made my time in xxx.com so much more enjoyable. I will always look back at my time with fond memories! 
+
+If you would like to keep in touch, these are some of the channels you can reach me at: 
+```
