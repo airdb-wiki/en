@@ -9,6 +9,14 @@ export const sidebarEn: SidebarConfig = {
       ],
     },
   ],
+  '/dict/': [
+    {
+      text: 'Dict',
+      children: [
+        '/dict/code.md',
+      ],
+    },
+  ],
   '/phrase/': [
     {
       text: 'phrase',

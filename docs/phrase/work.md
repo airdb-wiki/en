@@ -1,24 +1,20 @@
-# xxx
+# 工作
 
 if any miss out
+- 如果有任何错过
 
 Let me withdraw my last msg
 让我撤回上一条信息
 
-immediate priority 
-当务之急
+immediate priority
+- 当务之急
 
-
-## IT
-
-please check why the host stuck?
-
+please check why the host is stuck?
+- 请检查主机卡住的原因？
 
 The purpose of my talk today is update you on new developments in R&D
 
-
 What I want to do is to present alternatives to existing booking procedures.
-
 
 My arm is to show you how to cut costs in IT support.
 
@@ -30,12 +26,9 @@ Our goal is determine our sales targets for next year.
 
 I am here today to report on my/our company's investment plans.
 
-
-##
 Don’t poke around.
 
 oh my intention is to get the log first. 
 
-
-please take note of above timings too 
-也请注以上时间
+please take note of above timings too.
+- 也请注以上时间

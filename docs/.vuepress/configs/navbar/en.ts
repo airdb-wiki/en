@@ -7,6 +7,10 @@ export const navbarEn: NavbarConfig = [
     link: '/phrase/',
   },
   {
+    text: 'Dict',
+    link: '/dict/code.MD',
+  },
+  {
     text: 'Learning',
     children: [
           { text: 'liulishuo', link: '/reference/cli.html', },
