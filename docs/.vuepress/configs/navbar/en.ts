@@ -3,8 +3,8 @@ import { version } from '../meta'
 
 export const navbarEn: NavbarConfig = [
   {
-    text: 'Guide',
-    link: '/',
+    text: 'Phrase',
+    link: '/phrase/',
   },
   {
     text: 'Learning',
