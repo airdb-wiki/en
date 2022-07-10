@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-482a0990","path":"/phrase/politeness.html","title":"\u793C\u8C8C\u7528\u8BED","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1657479151000,"contributors":[{"name":"deancn","email":"dean@airdb.com","commits":2}]},"filePathRelative":"phrase/politeness.md"}');export{e as data};
