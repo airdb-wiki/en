@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-5bac44cf","path":"/work/sea.html","title":"SEA & SEAR","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1657558507000,"contributors":[{"name":"deancn","email":"dean@airdb.com","commits":1}]},"filePathRelative":"work/sea.md"}');export{e as data};
