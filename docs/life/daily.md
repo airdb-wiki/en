@@ -118,3 +118,7 @@ What are you waiting for ?  Go get it.
 
 sliced beef is my favorite side for Chinese hotpod
 牛肉片是我最喜欢中国火锅的一面
+
+
+bluffing
+- 虚张声势

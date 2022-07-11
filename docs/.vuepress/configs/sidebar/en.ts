@@ -37,6 +37,8 @@ export const sidebarEn: SidebarConfig = {
     {
       text: 'work',
       children: [
+        '/work/email.md',
+        '/work/meeting.md',
         '/work/tech.md',
         '/work/farewell.md',
         '/work/presentation.md',
