@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-afcea4cc","path":"/phrase/body.html","title":"Body Parts","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1657478755000,"contributors":[{"name":"deancn","email":"dean@airdb.com","commits":2}]},"filePathRelative":"phrase/body.md"}');export{e as data};
