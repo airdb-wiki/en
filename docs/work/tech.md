@@ -62,3 +62,13 @@ diverting 50% traffic away
 
 hi all, i will take 1 day leave today. To run some errands. i might not be able to be reach during the morning as my phone is spoilt, i will have to go apple store again to see if they can fix for me quickly.
 Should be contactable from afternoon onwards through wechat
+
+
+TO-BE-IMPROVE
+
+related to
+- 与 xxx 有关的
+
+
+mapping relationship
+- 映射关系

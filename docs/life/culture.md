@@ -1,8 +1,19 @@
 # Culture
 
+mind your step - 注意你的脚下、台阶
+
+beware of traffic - 小心车辆
+
+caution wet floor - 小心地面湿滑
+
 正知正行正反馈，好师好友好榜样
-追求极致 Aim for the highest
-务实敢为Be grounded & courageous
-开放谦逊Be open & humble
-坦诚清晰Be candid & clear
-始终创业 Always Day 1
+
+Aim for the highest - 追求极致 
+
+Be grounded & courageous - 务实敢为
+
+Be open & humble - 开放谦逊 
+
+Be candid & clear - 坦诚清晰
+
+Always Day 1 - 始终创业
