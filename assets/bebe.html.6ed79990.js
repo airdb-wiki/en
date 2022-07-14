@@ -1,1 +1,0 @@
-import{_ as a,o as t,c as s,b as e,d as r}from"./app.549647ee.js";const c={},o=e("h1",{id:"bebe-skill",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#bebe-skill","aria-hidden":"true"},"#"),r(" BEBE skill")],-1),l=[o];function _(n,d){return t(),s("div",null,l)}var b=a(c,[["render",_],["__file","bebe.html.vue"]]);export{b as default};
