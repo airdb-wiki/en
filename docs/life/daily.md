@@ -122,3 +122,9 @@ sliced beef is my favorite side for Chinese hotpod
 
 bluffing
 - 虚张声势
+
+
+Can you figure out what words he said?
+
+
+priority list - 优先级列表
