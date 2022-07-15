@@ -7,3 +7,4 @@
 | Alternative | 替代方案 |
 | complicated | 复杂 |
 | quick fix | 快速修复 |
+| priority list | 优先级列表 |
