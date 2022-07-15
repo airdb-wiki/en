@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-a5b9c890","path":"/life/emotion.html","title":"Emotion","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1657389281000,"contributors":[{"name":"deancn","email":"dean@airdb.com","commits":1}]},"filePathRelative":"life/emotion.md"}');export{e as data};
