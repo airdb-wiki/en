@@ -122,9 +122,8 @@ Resource：资源
 
 Review：检查一下或者回顾一下
 
+## 二、几个和软件开发相关的单词
 
-
-二、几个和软件开发相关的单词
 API：Application Programming Interface 应用编程接口
 
 比如，两个本来互相没有联系的系统需要数据共享，就需要开发API作为接口。
@@ -135,45 +134,28 @@ Coding：编码工作
 
 有时候将正式开始编码工作称作“Coding”,听起来似乎怪怪的，但实际上就是敲代码。
 
-
-
 Document：文档
-
-
 
 WebBase：Web应用程序
 
 “WebBase”从单词字面上看就是以Web为基础的意思，其实就是所谓的“B/S”结构的程序，有时候如果你和不懂技术的人交流说“B/S”他们不懂，你就说“WebBase”他们一定懂。
 
-
-
 Face to face：面对面
-
-
 
 Hand by hand：手把手
 
-
-
 Step by Step：一步一步的
-
-
 
 Quality：质量
 
 “Quality”可以说产品的质量，也可以说是网络通信的“Quality”等。
 
 
-
 On-line：在线的
 
 有时候所谓的“On-line的客户”并不是说他们现在就在线上连接着网络或者服务器，而有时候是指这些客户是我们的正式客户。
 
-
-
 Handbook：手册
-
-
 
 License：许可证
 
@@ -195,26 +177,18 @@ Report：报告
 
 Version：版本
 
+## 三、几个常用的设备名称的单词
 
-
-三、几个常用的设备名称的单词
 Voice gateway：语音网关
-
-
 
 Router：路由器
 
-
-
 HUB：有时候已经把小的桌面级的集线器和交换机都叫HUB
-
-
 
 Switch：交换机
 
+## 四、几个常用和商务相关的单词
 
-
-四、几个常用和商务相关的单词
 Order：订单
 
 
@@ -229,21 +203,13 @@ List price：官方报价，往往厂家会给一个折扣价，实际采购设�
 
 Customer：客户
 
-
-
 Partner：合作伙伴
-
-
 
 Billing：计费
 
-
-
 Marketing：市场，有时候也代表市场部门
 
-
-
-五、几种职位名称的称呼
+## 五、几种职位名称的称呼
 CEO：Chief Executive Officer的简称，首席执行官
 
 
