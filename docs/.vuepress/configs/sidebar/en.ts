@@ -13,7 +13,13 @@ export const sidebarEn: SidebarConfig = {
     {
       text: 'Dict',
       children: [
+        '/dict/daily.md',
         '/dict/code.md',
+        '/dict/tech.md',
+        '/dict/education.md',
+        '/dict/experience.md',
+        '/dict/personal.md',
+        '/dict/career.md',
       ],
     },
   ],
