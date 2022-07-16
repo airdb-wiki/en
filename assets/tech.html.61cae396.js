@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-346dc7ba","path":"/dict/tech.html","title":"Dictionary","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1657993119000,"contributors":[{"name":"deancn","email":"dean@airdb.com","commits":1}]},"filePathRelative":"dict/tech.md"}');export{t as data};

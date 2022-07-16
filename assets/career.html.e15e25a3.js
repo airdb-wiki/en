@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-72b2bf8a","path":"/dict/career.html","title":"\u79BB\u804C\u539F\u56E0\u76F8\u5173\u8BCD\u6C47","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1657993119000,"contributors":[{"name":"deancn","email":"dean@airdb.com","commits":1}]},"filePathRelative":"dict/career.md"}');export{e as data};

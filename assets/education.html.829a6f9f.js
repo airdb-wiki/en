@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-61df8611","path":"/dict/education.html","title":"\u5B66\u5386\u76F8\u5173\u8BCD\u6C47","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1657993119000,"contributors":[{"name":"deancn","email":"dean@airdb.com","commits":1}]},"filePathRelative":"dict/education.md"}');export{t as data};
