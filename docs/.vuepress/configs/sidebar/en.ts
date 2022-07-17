@@ -65,6 +65,7 @@ export const sidebarEn: SidebarConfig = {
         '/life/airport.md',
         '/life/modal.md',
         '/life/hotel.md',
+        '/life/travel-new-york.md',
       ],
     },
   ],
