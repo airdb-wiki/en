@@ -195,3 +195,18 @@ Ugh. It’s horrible.
 Ugh! You're eating snails!
 
 喔唷！你怎么吃蜗牛！
+
+
+## 6种说不用谢的英文用法
+
+1. Anytime. 别客气，随时为您效劳。
+
+2. Don't mention it. 别和我见外、别跟我客套了。
+
+3. My pleasure./ It's my pleasure./ Pleasure is all mine. 别客气，这是我的荣幸。
+
+4. No worries. (澳洲常用)/ No problems. (美式英文) 没问题、别担心
+
+5. No sweat. 小意思。
+
+6. Not at all. 不用谢、别客气。
