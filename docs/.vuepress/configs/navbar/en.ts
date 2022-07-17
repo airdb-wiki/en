@@ -22,7 +22,7 @@ export const navbarEn: NavbarConfig = [
   {
     text: 'Life',
     children: [
-          { text: 'Tasks', link: '/life/daily.html', },
+          { text: 'Social', link: '/life/daily.html', },
     ],
   },
   {

@@ -59,6 +59,8 @@ export const sidebarEn: SidebarConfig = {
       children: [
         '/life/daily.md',
         '/life/culture.md',
+        '/life/emotion.md',
+        '/life/social.md',
       ],
     },
   ],
