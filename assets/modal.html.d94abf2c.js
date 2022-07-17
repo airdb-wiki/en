@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-732bb326","path":"/life/modal.html","title":"\u82F1\u8BED\u8BED\u6C14\u8BCD\uFF1A\u54FC\u54FC\u54C8\u563F","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1658062933000,"contributors":[{"name":"deancn","email":"dean@airdb.com","commits":1}]},"filePathRelative":"life/modal.md"}');export{e as data};
