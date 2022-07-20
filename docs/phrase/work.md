@@ -1,5 +1,8 @@
 # 工作
 
+# encountered technical problems
+遭遇了技术问题
+
 if any miss out
 - 如果有任何错过
 

@@ -128,3 +128,7 @@ Can you figure out what words he said?
 
 
 priority list - 优先级列表
+
+
+
+property suppliers are boycotting loan - 房地产供应商抵制贷款

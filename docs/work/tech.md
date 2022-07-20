@@ -72,3 +72,9 @@ related to
 
 mapping relationship
 - 映射关系
+
+
+backlog of logs: 积压的日志
+
+
+restriction: 限制

@@ -1,5 +1,7 @@
 # A week in New York
 
+https://youtu.be/yVGchXjo-Bc
+
 Hi everyone, welcome back to my channel!
 
 Today I want to share with you `How much I spend in a week living in NYC`
