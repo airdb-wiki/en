@@ -130,3 +130,10 @@ Oh I see.
 Don’t worry about it.
 OK no problem.
 ```
+
+the echo made my brain
+
+echo 回音乐
+my ear is sensitive 
+
+damn dizzy 👾
