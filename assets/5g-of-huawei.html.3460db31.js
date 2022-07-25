@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-26adb2c2","path":"/liulishuo/news/5g-of-huawei.html","title":"\u7F8E\u56FD\u6253\u538B\u534E\u4E3A","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1658765997000,"contributors":[{"name":"deancn","email":"dean@airdb.com","commits":1}]},"filePathRelative":"liulishuo/news/5g-of-huawei.md"}');export{e as data};
