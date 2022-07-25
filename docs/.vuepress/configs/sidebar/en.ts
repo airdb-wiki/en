@@ -42,7 +42,7 @@ export const sidebarEn: SidebarConfig = {
   ],
   '/work/': [
     {
-      text: 'work',
+      text: 'Daily',
       children: [
         '/work/README.md',
         '/work/email.md',
@@ -52,6 +52,17 @@ export const sidebarEn: SidebarConfig = {
         '/work/farewell.md',
         '/work/presentation.md',
         '/work/ray-dalio.md',
+      ],
+    },
+    {
+      text: 'Host Skills',
+      collapsible: true,
+      children: [
+        '/work/qacr.md',
+        '/work/prep.md',
+        '/work/sea.md',
+        '/work/sparc.md',
+        '/work/bebe.md',
       ],
     },
   ],
@@ -68,6 +79,7 @@ export const sidebarEn: SidebarConfig = {
         '/life/modal.md',
         '/life/hotel.md',
         '/life/travel-new-york.md',
+        '/life/personality.md'
       ],
     },
   ],
