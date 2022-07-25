@@ -49,8 +49,6 @@ export const sidebarEn: SidebarConfig = {
         '/work/meeting.md',
         '/work/daily-meeting.md',
         '/work/tech.md',
-        '/work/farewell.md',
-        '/work/presentation.md',
         '/work/ray-dalio.md',
       ],
     },
@@ -63,6 +61,14 @@ export const sidebarEn: SidebarConfig = {
         '/work/sea.md',
         '/work/sparc.md',
         '/work/bebe.md',
+      ],
+    },
+    {
+      text: 'Advanced',
+      collapsible: true,
+      children: [
+        '/work/farewell.md',
+        '/work/presentation.md',
       ],
     },
   ],
