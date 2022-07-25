@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-16fe0885","path":"/life/personality.html","title":"Personality","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1658761636000,"contributors":[{"name":"deancn","email":"dean@airdb.com","commits":1}]},"filePathRelative":"life/personality.md"}');export{e as data};
