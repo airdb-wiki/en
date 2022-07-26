@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-5e49e2e4","path":"/work/bebe.html","title":"BEBE skill","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1657558507000,"contributors":[{"name":"deancn","email":"dean@airdb.com","commits":1}]},"filePathRelative":"work/bebe.md"}');export{e as data};
