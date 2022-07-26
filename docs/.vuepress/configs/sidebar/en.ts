@@ -61,6 +61,7 @@ export const sidebarEn: SidebarConfig = {
         '/work/sea.md',
         '/work/sparc.md',
         '/work/bebe.md',
+        '/work/dmic.md',
       ],
     },
     {
@@ -86,6 +87,7 @@ export const sidebarEn: SidebarConfig = {
         '/life/hotel.md',
         '/life/travel-new-york.md',
         '/life/personality.md'
+        '/life/bar.md'
       ],
     },
   ],
