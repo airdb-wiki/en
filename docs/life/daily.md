@@ -132,3 +132,11 @@ priority list - 优先级列表
 
 
 property suppliers are boycotting loan - 房地产供应商抵制贷款
+
+
+Hope July has been an exciting month for you!
+希望七月对你来说是一个激动人心的月份！
+
+
+"Innovation is the ability to see change as an opportunity – not a threat,” Steve Jobs once said. And change is the only constant in this day and age. As we innovate, we are pushing our boundaries of what’s possible!
+
