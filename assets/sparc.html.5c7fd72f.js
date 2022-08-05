@@ -1,1 +1,0 @@
-import{_ as a,o as r,c,b as e,d as s}from"./app.2b3a3325.js";const t={},o=e("h1",{id:"sparc",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#sparc","aria-hidden":"true"},"#"),s(" SPARC")],-1),_=[o];function n(d,i){return r(),c("div",null,_)}var l=a(t,[["render",n],["__file","sparc.html.vue"]]);export{l as default};
