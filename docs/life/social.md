@@ -27,3 +27,6 @@ A: Haha nowadays have translator.
 
 Q: Are you free  tonight?
 A: I have scheduled  (我有计划了)
+
+
+just hanging around - 四处转转
