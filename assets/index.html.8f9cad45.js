@@ -1,0 +1,1 @@
+import{_ as a,o as s,c as t,b as e,d as n}from"./app.7194d238.js";const i={},r=e("h1",{id:"speaking-skills",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#speaking-skills","aria-hidden":"true"},"#"),n(" Speaking Skills")],-1),c=[r];function o(d,l){return s(),t("div",null,c)}var h=a(i,[["render",o],["__file","index.html.vue"]]);export{h as default};
