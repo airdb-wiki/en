@@ -28,6 +28,7 @@ export const sidebarEn: SidebarConfig = {
       text: 'phrase',
       children: [
         '/phrase/README.md',
+        '/phrase/conjunction.md',
         '/phrase/body.md',
         '/phrase/game.md',
         '/phrase/whatever.md',
