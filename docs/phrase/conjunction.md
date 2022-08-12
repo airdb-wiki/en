@@ -26,7 +26,7 @@
 |澄清/辨识重要信息	|Specifically; Namely	|That is (to say); In other words; (To) put (it) another way; What this means is; This means (that)| “There are two factors: namely, X and Y.”“In other words, the fall of the Empire was caused by over-expansion.”|
 
 
-### Adversative Transitions
+Adversative Transitions
 
 这些用法用来区分事实、论点和其他信息，可利用比对以展现相异处或提供反对论点、质疑某个事实或论点的重要性或替换并提供其他替换。
 
@@ -77,3 +77,6 @@
 - Check the structure of your paper—are your ideas clearly laid out in order? You should be able to locate sequence terms such as “first,” “second,” “following this,” “another,” “in addition,” “finally,” “in conclusion,” etc. These terms will help outline your paper for the reader.
 
 - Read the beginning of each paragraph. Did you include a transition? If not, look at the information in that paragraph and of the preceding paragraph and ask yourself: “How does this information connect?” Then locate the best transition from the list.
+
+
+https://wordvice.cn/论文中常用的转折、.m跟短语/
