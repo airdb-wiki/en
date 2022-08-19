@@ -1,0 +1,1 @@
+import{_ as a,o as s,c as r,b as e,d as t}from"./app.a3e7b6af.js";const c={},o=e("h1",{id:"sea-sear",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#sea-sear","aria-hidden":"true"},"#"),t(" SEA & SEAR")],-1),_=[o];function n(d,i){return s(),r("div",null,_)}var l=a(c,[["render",n],["__file","sea.html.vue"]]);export{l as default};
