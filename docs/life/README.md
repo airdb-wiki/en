@@ -16,3 +16,6 @@ endorse - 背书
 
 
 Realtime Insights - 实时洞察
+
+
+let's meet at the gate 7. - 7号门见
