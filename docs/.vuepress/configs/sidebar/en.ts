@@ -80,6 +80,7 @@ export const sidebarEn: SidebarConfig = {
       collapsible: true,
       children: [
         '/life/daily.md',
+        '/life/cooking.md',
         '/life/culture.md',
         '/life/emotion.md',
         '/life/social.md',
